@@ -1,0 +1,15 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/themes/Peacock.tmTheme",
+	"enable_telemetry": false,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

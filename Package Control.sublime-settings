@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AngularJS",
+		"Bower",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"LiveReload",
+		"Package Control",
+		"Package Syncing",
+		"Sass",
+		"SCSS",
+		"SublimeServer",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}
