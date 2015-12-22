@@ -1,3 +1,10 @@
 [
-	{ "keys": ["ctrl+n"], "command": "advanced_new_file_new"}
+	{
+		"keys": ["ctrl+n"],
+		"command": "advanced_new_file_new"
+	},
+	{
+		"keys": ["ctrl+alt+l"],
+		"command": "htmlprettify"
+	}
 ]
