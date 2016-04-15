@@ -6,25 +6,15 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
 		"AngularJS",
-		"Bower",
 		"BracketHighlighter",
-		"BufferScroll",
 		"Emmet",
-		"Git",
 		"HTML-CSS-JS Prettify",
-		"HTML5",
-		"LiveReload",
+		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
 		"Package Syncing",
 		"Sass",
-		"SCSS",
-		"SublimeServer",
-		"Theme - Soda"
-	],
-	"repositories":
-	[
-		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+		"SublimeGit"
 	]
 }

@@ -1,5 +1,12 @@
-# sublime-settings
+sublime-settings
+================
+
 Personal settings for Sublime Text 3.
 Mostly for web development.
 
-Use [Package syncing](https://packagecontrol.io/packages/Package%20Syncing) to get all packages after a fresh install of Sublime text 3 and Package Control.
+## Usage
+1. Install [Package control](https://packagecontrol.io/installation)
+2. Install [Package syncing](https://packagecontrol.io/packages/Package%20Syncing)
+3. From *command palette*, define synced folder with _Package Syncing: Define Sync Folder_ to this cloned repo on your computer
+4. Confirm message to override settings in the fodler
+5. Restart ST3
